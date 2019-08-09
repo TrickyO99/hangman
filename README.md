@@ -1,0 +1,2 @@
+# hangman
+Colle by Epitech
